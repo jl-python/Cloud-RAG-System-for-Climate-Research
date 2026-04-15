@@ -16,6 +16,7 @@ env:
   ECS_CLUSTER: climate-rag-cluster
   ECS_SERVICE: backend-service
   CONTAINER_NAME: backend
+  TASK_DEFINITION: climate-rag-backend
 
 jobs:
   build-and-push:
@@ -68,7 +69,7 @@ jobs:
       - name: Download current task definition
         run: |
           aws ecs describe-task-definition \
-            --task-definition ${{ env.ECS_SERVICE }} \
+            --task-definition ${{ env.TASK_DEFINITION }} \
             --query taskDefinition > taskdef.json
 
       - name: Render task definition with new image
