@@ -14,7 +14,7 @@ env:
   AWS_REGION: us-west-2
   ECR_REPOSITORY: climate-rag-backend
   ECS_CLUSTER: climate-rag-cluster
-  ECS_SERVICE: climate-rag-backend
+  ECS_SERVICE: backend-service
   CONTAINER_NAME: backend
 
 jobs:
