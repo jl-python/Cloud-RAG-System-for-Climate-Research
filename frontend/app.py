@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv(Path(__file__).resolve().parent.parent / ".env")
 
-BACKEND_URL = os.getenv("BACKEND_URL", "http://127.0.0.1:3001").rstrip("/")
+BACKEND_URL = os.getenv("BACKEND_URL", "http://35.94.137.203:3001").rstrip("/")
 
 
 def _html_body(text: str) -> str:
