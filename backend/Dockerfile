@@ -18,4 +18,4 @@ RUN pip install --upgrade pip && \
 
 COPY . .
 
-CMD ["sh", "-c", "uvicorn backend.app:app --host 0.0.0.0 --port ${PORT:-8080} --workers 1"]
+CMD ["sh", "-c", "uvicorn backend.app:app --host 0.0.0.0 --port 3001 --workers 1"]
