@@ -1,0 +1,9 @@
+venv/
+.env
+data/checkpoints/
+logs/
+backend/history.json
+__pycache__/
+*.pyc
+.DS_Store
+artifacts/

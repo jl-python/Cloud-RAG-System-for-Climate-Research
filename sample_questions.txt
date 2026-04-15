@@ -1,0 +1,95 @@
+# Climate RAG — Sample Questions
+# All questions are grounded in the 1,092 papers in the database.
+
+## Gulf Stream & Ocean Circulation
+How does the Gulf Stream affect the climate of Northwestern Europe?
+What happens to European temperatures if the thermohaline circulation shuts down?
+How sensitive is the Atlantic Meridional Overturning Circulation to freshwater input?
+What drives vertical mixing in thermohaline circulation?
+
+## Sea Level Rise
+What does the Last Interglacial tell us about future sea level rise?
+How much higher was sea level during the Last Interglacial compared to today?
+What is the relationship between global temperature and sea level change?
+How does Antarctic ice sheet instability contribute to sea level projections?
+Are sea levels currently accelerating?
+
+## Solar Activity & Climate
+What is the relationship between solar variability and global temperature?
+How much of observed warming since 1980 can be attributed to solar activity?
+What mechanisms link solar activity to Earth's surface climate?
+How does the 11-year solar cycle influence climate?
+What is the faint young Sun paradox?
+
+## CO2 & Greenhouse Effect
+What happens to global temperature when atmospheric CO2 doubles?
+What is climate sensitivity and how is it estimated?
+How does atmospheric CO2 concentration correlate with temperature over time?
+What is the carbon cycle and how does it regulate Earth's climate?
+How do carbon sinks help offset fossil fuel emissions?
+
+## ENSO & Tropical Climate
+What causes El Nino and La Nina events?
+How does ENSO affect global temperature variability?
+What is the relationship between ENSO and monsoon rainfall in India?
+How does El Nino influence tropical cyclone activity?
+What drives the El Nino Southern Oscillation cycle?
+
+## Tropical Cyclones & Hurricanes
+How does climate variability influence tropical cyclone occurrence?
+What is maximum potential intensity for tropical cyclones?
+How does global warming affect hurricane intensity?
+What role does sea surface temperature play in tropical cyclone formation?
+
+## Paleoclimate & Ice Ages
+What are Dansgaard-Oeschger events and what causes them?
+How do Milankovitch cycles drive glacial-interglacial transitions?
+What caused the mid-Pleistocene transition from 40ka to 100ka cycles?
+What does Antarctic ice core data tell us about past climate?
+What is the Early Anthropogenic Hypothesis about Holocene greenhouse gases?
+
+## Arctic & Sea Ice
+How is Arctic sea ice responding to global warming?
+What feedback mechanisms amplify warming in the Arctic?
+How does Arctic sea ice loss affect global climate?
+What causes the asymmetry between Arctic ice loss and Antarctic ice expansion?
+Can Arctic sea ice reach a tipping point?
+
+## Climate Modeling & Sensitivity
+How reliable are multi-model ensemble climate projections?
+What is equilibrium climate sensitivity versus transient climate sensitivity?
+How well do IPCC climate models represent the hydrological cycle?
+What are the main sources of uncertainty in climate projections?
+How can Bayesian methods improve probabilistic climate forecasts?
+
+## Aerosols & Radiation
+How do mineral dust aerosols affect Earth's radiation budget?
+What is the role of cosmic rays in cloud formation?
+How do aerosols influence climate forcing?
+What effect did the Mt. Pinatubo eruption have on global temperatures?
+
+## Ozone
+What is the Antarctic ozone hole and what causes it?
+How does ozone depletion affect climate?
+
+## Water Vapor & Clouds
+What role does water vapor play as a greenhouse gas?
+How does latent heat release affect atmospheric circulation?
+How do marine stratocumulus clouds influence Earth's energy budget?
+
+## Climate Tipping Points
+What are climate tipping points and how do they work?
+How close is the thermohaline circulation to a tipping point?
+What early warning signals precede a climate tipping point?
+Can climate bifurcations be predicted?
+
+## Climate Networks & Complexity
+How can complex network theory be applied to climate systems?
+What does climate network analysis reveal about El Nino events?
+How is the climate system characterized as a nonlinear dynamical system?
+
+## Policy & Mitigation
+What does the IPCC say about CO2 doubling and warming?
+How does emission trading help address climate change?
+What are the thermodynamic limits of transitioning to renewable energy?
+How does global warming affect the frequency of extreme weather events?

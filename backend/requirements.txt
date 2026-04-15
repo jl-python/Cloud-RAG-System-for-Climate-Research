@@ -1,0 +1,18 @@
+# API
+fastapi>=0.109.2
+uvicorn>=0.27.0
+
+# Database
+psycopg2-binary>=2.9.0
+
+# ML
+sentence-transformers>=2.2.2
+spacy>=3.7.0,<3.9.0
+scispacy>=0.5.4
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+
+# LLM
+google-genai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.1

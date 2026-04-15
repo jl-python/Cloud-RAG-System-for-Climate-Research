@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# Environment
+.env
+
+# Data / checkpoints
+data/checkpoints/
+logs/
+
+# History
+backend/history.json
+
+# OS
+.DS_Store

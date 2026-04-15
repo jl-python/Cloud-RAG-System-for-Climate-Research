@@ -1,0 +1,28 @@
+# API & Web
+fastapi>=0.109.2
+uvicorn>=0.27.0
+streamlit>=1.30.0
+requests>=2.28.0
+
+# Database
+psycopg2-binary>=2.9.0
+
+# Data & ML
+pandas>=2.1.0
+numpy>=1.24.0
+sentence-transformers>=2.2.2
+datasets>=2.14.0
+pyarrow>=14.0.0
+
+# NLP / Knowledge Graph
+spacy>=3.7.0,<3.9.0
+scispacy>=0.5.4
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+
+# LLM
+google-genai>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.1
+tqdm>=4.66.0
+pytest>=8.0.0
